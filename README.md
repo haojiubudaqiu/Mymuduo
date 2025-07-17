@@ -11,5 +11,7 @@ C++,Linux,Socket,Epoll,多线程
 项目收获：通过深入了解muduo网络库的核心-TcpServer源码，对经典的五种IO模型及Reactor模型有了更深的认识；掌握基于事件驱动和事件回调的epoll+线程池面向对象编程；熟悉了网络编程及线程池，缓冲区，学习多线程编程。
 
 
-核心类的讲解
+核心类的讲解：
 https://blog.csdn.net/2301_80355452/article/details/149205517?spm=1011.2124.3001.6209
+对于Muduo我自己的整体理解
+https://mp.csdn.net/mp_blog/creation/editor/149315756
